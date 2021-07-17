@@ -92,7 +92,7 @@ INSERT INTO `obat` (`nama_obat`, `harga_obat`, `kode_obat`, `dosis_obat`, `kode_
 ('Decolgen', 8000, 19, '3x1', 101, 19, 'Desember', 2018, 60),
 ('Catropile', 10000, 20, '1x1', 101, 13, 'Desember', 2018, 15),
 ('Amoxilin', 7000, 21, '2x1', 101, 21, 'Januari', 2019, 15),
-('Neutropin', 9000, 22, '3x1', 105, 7, 'Desember', 2020, 35),
+('Neutropin', 9000, 22, '3x1', 105, 7, 'desember', 2020, 35),
 ('Darsi', 13000, 23, '1x1', 105, 9, 'Februari', 2020, 115),
 ('Komik', 5000, 25, '3x1', 105, 9, 'April', 2020, 125);
 
